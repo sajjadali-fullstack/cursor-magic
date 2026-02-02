@@ -5,6 +5,11 @@ This project adds a fun and modern touch to websites by replacing the default cu
 
 ---
 
+## Live Link : 
+https://sajjadali-fullstack.github.io/cursor-magic/
+
+---
+
 ## 🚀 Features
 
 - 🎯 Smooth cursor movement
