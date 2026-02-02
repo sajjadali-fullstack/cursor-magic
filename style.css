@@ -1,0 +1,62 @@
+ /* Universal CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    /* font-family: 'Sans-serif'; */
+    color: #fff;
+}
+
+/* HTML & Body */
+html, body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000;
+    /* font-family: Gilroy; */
+    font-family: Sylfaen;
+}
+
+/* Container */
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* H1 */
+h1{
+    font-size:9vw;  
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+/* Cursor */
+.cursor{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: #fff;
+    mix-blend-mode: difference;
+    border-radius: 50%;
+    transform: translate(-50%,-50%);
+}
+ 
+/* 
+.cursor-inner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #000;
+    border-radius: 50%;
+    transform: translate(-50%,-50%);
+}
+
+*/
